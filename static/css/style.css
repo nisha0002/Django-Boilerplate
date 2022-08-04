@@ -1,0 +1,9 @@
+.welcomeDiv h2{
+    color:brown
+}
+.welcomeDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
